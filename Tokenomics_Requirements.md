@@ -1,0 +1,4 @@
+I am the chief data officer for Dell Technologies. I need to create the following
+    Tokenomics framework for our AI and data products. This framework will be used to create a tokenized economy for our customers and partners. The framework should be flexible enough to accommodate different use cases and revenue models. Please provide a comprehensive plan for the tokenomics framework. 
+    My customers will be building agents on top of my Agentic platform using Data Robot and I want them to build an agent which is optimized. There are levers that I want to use like prompt caching and other optimization techniques so we use the model in an optimized way including picking the right model. What should I do. Should I build a evaluation framework where I can evaluate the agents and provide feedback to the customers? or should I build a eval harness for them to play with the controls before they go with the production runtime in Data Robot?
+    
