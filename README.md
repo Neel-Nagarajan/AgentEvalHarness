@@ -7,7 +7,7 @@ IT EA - Responsbile for Architectural standards
 CTO - Responsbile for Company wide AI standards
 
 *** Problem Statement ***
-In an big Enterprise IT, there are 1000's of applications supporting business in various ways. With the advent of AI, every team is working on building AI Agents. 
+In an big Enterprise IT, there are 1000's of applications supporting businesses in various ways. With the advent of AI, every team is working on building AI Agents. 
 There is a separate platform team which is responsible for giving Agent runtimes and running them optimized. 
 In a traditional IT Environment, platform team cannot block the business from building agents or build it for them due to lack of business knowledge and not being a scalable model.
 The issue we see in production is - these agents are not sometimes optized for their use case. Every use case is different and requires different optimization levers right from model selection to caching. 
